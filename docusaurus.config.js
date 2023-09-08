@@ -72,6 +72,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'google-site-verification', content: 'YKTbN9g_Gp83YNkR4_dtNbmbV91qNlmSFKe6sBNJdds'}],
       image: 'img/social-card.jpg',
       navbar: {
         logo: {
